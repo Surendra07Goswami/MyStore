@@ -1,0 +1,1 @@
+let alert=(prompt("This is a demo e-commerce site built for learning"));
